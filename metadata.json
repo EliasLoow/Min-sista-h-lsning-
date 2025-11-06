@@ -1,0 +1,8 @@
+{
+  "name": "Min Sista Hälsning",
+  "description": "En digital minnes- & livsinstruktionsapp. Spela in meddelanden, lagra minnen, och lämna instruktioner till nära och kära. AI-drivna verktyg hjälper dig att organisera, skapa och kommunicera dina sista önskningar på ett meningsfullt sätt.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
